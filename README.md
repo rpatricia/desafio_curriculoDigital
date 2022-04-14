@@ -23,10 +23,8 @@ Dificuldades na relalização.
 
 
 
-![imcv (3)](https://user-images.githubusercontent.com/86075683/154592897-6c715ac5-e201-477f-8af1-ccc2c52bd311.png)
-)
 
 ![Design sem nome (5)](https://user-images.githubusercontent.com/86075683/154590788-2511e02f-ce17-47d7-ae2f-81b281287db1.png)
 
 
-![Design sem nome (4)](https://user-images.githubusercontent.com/86075683/154589480-11b9d3b2-340e-4d67-b15b-ef9d6a7cafeb.png)
+
